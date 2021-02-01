@@ -110,8 +110,6 @@ public class LoginFunction extends BasePage {
         String text1Price = ProductPrices1.get(0).getText();
 
 
-        //wait.until((ExpectedConditions.visibilityOfElementLocated(By.xpath("//div[@class='basket-container robot-header-iconContainer-cart']"))));
-        //Sepetim bölümünün görünür olmasını beklemek için kullanmıştım, işe yaramadı
 
 
 
